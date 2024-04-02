@@ -395,11 +395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\lab3\\lab3.csproj",
+      "projectUniqueName": "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\lab3\\lab3.csproj",
       "projectName": "lab3",
-      "projectPath": "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\lab3\\lab3.csproj",
+      "projectPath": "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\lab3\\lab3.csproj",
       "packagesPath": "C:\\Users\\Piotrek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\lab3\\obj\\",
+      "outputPath": "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\lab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Piotrek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -416,8 +416,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj": {
-              "projectPath": "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj"
+            "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj": {
+              "projectPath": "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj"
             }
           }
         }

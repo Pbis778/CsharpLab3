@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj": {}
+    "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj": {
+    "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj",
+        "projectUniqueName": "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj",
         "projectName": "Motoryzacja",
-        "projectPath": "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj",
+        "projectPath": "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\Motoryzacja\\Motoryzacja.csproj",
         "packagesPath": "C:\\Users\\Piotrek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\Motoryzacja\\obj\\",
+        "outputPath": "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\Motoryzacja\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Piotrek\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YA7fMKeFpJGaKYUEOb59V+CsTyQAKcEQaktoShUkh+X/fE9K1CbDr9zoCmh1J24A8cy6c5GXwWTqCP1tel3Zhg==",
+  "dgSpecHash": "2B4ReH38JSPf5Y+uucRItZUeQovFolsl0UCIL9mc4fv2rQCjAsWTtViX+F1hMSib5lnntOdBspKkZAlcpbrkKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Piotrek\\Desktop\\Lab3Csharp\\lab3\\lab3.csproj",
+  "projectFilePath": "C:\\Users\\Piotrek\\Documents\\GitHub\\CsharpLab3\\Lab3Csharp\\lab3\\lab3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Piotrek\\.nuget\\packages\\aspose.cells\\24.3.0\\aspose.cells.24.3.0.nupkg.sha512",
     "C:\\Users\\Piotrek\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

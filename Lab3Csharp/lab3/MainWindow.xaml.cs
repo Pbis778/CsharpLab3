@@ -55,11 +55,11 @@ namespace lab3
 
         private void WyswietlHistorie(Pojazd pojazd)
         {
-            HistoriaListBox.Items.Clear();
+            lbxHistoriaZmian.Items.Clear();
 
             foreach (var wpis in pojazd.PobierzHistorie())
             {
-                HistoriaListBox.Items.Add(wpis);
+                lbxHistoriaZmian.Items.Add(wpis);
             }
         }
     }
